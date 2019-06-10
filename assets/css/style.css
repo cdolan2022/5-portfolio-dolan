@@ -38,3 +38,11 @@ img {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.container {
+    padding-bottom: 0px;
+}
+.image.primary {
+    display: block!important;
+    
+}
