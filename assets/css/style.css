@@ -49,3 +49,7 @@ img {
 
  .title {background: rgba(0, 0, 0, 0.5);
  }
+
+.main .container:before {
+    min-height: 0px !important;
+}
